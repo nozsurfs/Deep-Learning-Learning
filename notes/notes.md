@@ -25,3 +25,7 @@ am approaching this from a heavily mathematical foundation.
 :::
 
 # Neural Network Foundations
+
+# Practical Deep Learning
+
+# Physics-Informed Neural Networks
